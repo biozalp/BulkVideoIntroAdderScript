@@ -27,8 +27,8 @@ Download from [FFmpeg's official website](https://ffmpeg.org/download.html) or u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bulk-video.git
-cd bulk-video
+git clone https://github.com/biozalp/BulkVideoIntroAdderScript.git
+cd BulkVideoIntroAdderScript
 ```
 
 2. Make the script executable:
